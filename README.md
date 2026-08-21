@@ -1,5 +1,7 @@
 # Fabric UseCase Advisor
 
+**Language: 한국어 | [English](README.en.md)**
+
 "데이터 소스 → 활용 시나리오 추천 → 갭 분석" 파이프라인 프로토타입 + 소개 PPT.
 
 ## 폴더 구성
