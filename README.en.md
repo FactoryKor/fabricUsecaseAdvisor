@@ -10,7 +10,7 @@ Prototype pipeline for "Data sources → Use-case recommendations → Gap analys
 |---|---|
 | `usecase_advisor.ipynb` | Runnable pipeline notebook (data profiling → business concept mapping → scenario recommendation → gap analysis → dashboard) |
 | `build_notebook.py` | Script that generates the notebook above (edit this script and re-run it if you want to change the notebook's content) |
-| `Fabric_UseCase_Advisor_소개.pptx` | Introductory slide deck (12 slides) |
+| `Fabric_UseCase_Advisor.pptx` | Introductory slide deck (12 slides) |
 | `build_ppt.py` | Script that generates the PPT above (edit this script and re-run it to change text/design) |
 
 `.ipynb`/`.pptx` are **generated outputs** of `build_notebook.py`/`build_ppt.py` respectively — don't edit the generated files directly; edit the script and re-run it (re-running overwrites the same filename).
