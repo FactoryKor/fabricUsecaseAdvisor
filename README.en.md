@@ -136,7 +136,7 @@ Run the cells in order from top to bottom (each cell relies on variables defined
 
 ---
 
-## 3. Using the PPT (`Fabric_UseCase_Advisor_소개.pptx`)
+## 3. Using the PPT (`Fabric_UseCase_Advisor_EN.pptx`)
 
 ### 3-1. Just viewing it
 Open `Fabric_UseCase_Advisor_소개.pptx` with PowerPoint (or a compatible viewer). No extra installation needed.
